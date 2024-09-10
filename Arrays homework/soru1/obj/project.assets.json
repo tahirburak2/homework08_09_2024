@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru1/soru1.csproj",
+      "projectUniqueName": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru1/soru1.csproj",
       "projectName": "soru1",
-      "projectPath": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru1/soru1.csproj",
+      "projectPath": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru1/soru1.csproj",
       "packagesPath": "/Users/tahirburakavar/.nuget/packages/",
-      "outputPath": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru1/obj/",
+      "outputPath": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tahirburakavar/.nuget/NuGet/NuGet.Config"
