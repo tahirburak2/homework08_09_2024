@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru5/soru5/soru5.csproj": {}
+    "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru5/soru5/soru5.csproj": {}
   },
   "projects": {
-    "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru5/soru5/soru5.csproj": {
+    "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru5/soru5/soru5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru5/soru5/soru5.csproj",
+        "projectUniqueName": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru5/soru5/soru5.csproj",
         "projectName": "soru5",
-        "projectPath": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru5/soru5/soru5.csproj",
+        "projectPath": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru5/soru5/soru5.csproj",
         "packagesPath": "/Users/tahirburakavar/.nuget/packages/",
-        "outputPath": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru5/soru5/obj/",
+        "outputPath": "/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru5/soru5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tahirburakavar/.nuget/NuGet/NuGet.Config"

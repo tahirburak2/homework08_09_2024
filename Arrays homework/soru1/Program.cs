@@ -12,6 +12,6 @@ class Program
                 System.Console.WriteLine($"{sayılar[i]} değeri sağındaki ve solundakinden büyüktür");
             }
         }
-        //as
+        
     }
 }

@@ -10,7 +10,7 @@ class Program
         int[] sayılar = new int[10];
         int sayaç = 0;
 int sayaç1=1;
-        System.Console.WriteLine("10 tane sayı giriniz: ");
+        
         for (int i = 0; i < 10; i++)
         {
 

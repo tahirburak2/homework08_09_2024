@@ -15,7 +15,7 @@ class Program
 
         for (int i = 0; i < dizi.Length; i++)
         {
-            dizi[i] = rnd.Next(1, 101);
+            dizi[i] = rnd.Next(1, 15);
         }
         foreach (var item in dizi)
         {
@@ -32,5 +32,7 @@ class Program
             }
         }
         System.Console.WriteLine($"girdiğiniz sayı ({input}) dizide {sayaç1} kere bulunuyor");
+
+        
     }
 }
