@@ -1,0 +1,14 @@
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/bin/Debug/net8.0/soru2
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/bin/Debug/net8.0/soru2.deps.json
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/bin/Debug/net8.0/soru2.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/bin/Debug/net8.0/soru2.dll
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/bin/Debug/net8.0/soru2.pdb
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/obj/Debug/net8.0/soru2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/obj/Debug/net8.0/soru2.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/obj/Debug/net8.0/soru2.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/obj/Debug/net8.0/soru2.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/obj/Debug/net8.0/soru2.dll
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/obj/Debug/net8.0/refint/soru2.dll
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/obj/Debug/net8.0/soru2.pdb
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/obj/Debug/net8.0/soru2.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/Arrays homework/soru2/obj/Debug/net8.0/ref/soru2.dll
