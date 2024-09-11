@@ -6,7 +6,7 @@ class Program
     {
         Random rnd = new Random();
         int[] dizi = new int[5];
-        int[] dizi2 = new int[5];
+        
         int sayaç = 0;
         for (int i = 0; i < 5; i++)
         {

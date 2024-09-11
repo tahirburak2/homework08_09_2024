@@ -14,8 +14,7 @@ class Program
             }
         }
 
-        Array.Sort(dizi);
-        Array.Reverse(dizi);
+        
         foreach (var item in dizi)
         {
             System.Console.WriteLine(item);
