@@ -1,0 +1,15 @@
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/bin/Debug/net8.0/soru14
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/bin/Debug/net8.0/soru14.deps.json
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/bin/Debug/net8.0/soru14.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/bin/Debug/net8.0/soru14.dll
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/bin/Debug/net8.0/soru14.pdb
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/obj/Debug/net8.0/soru14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/obj/Debug/net8.0/soru14.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/obj/Debug/net8.0/soru14.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/obj/Debug/net8.0/soru14.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/obj/Debug/net8.0/soru14.sourcelink.json
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/obj/Debug/net8.0/soru14.dll
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/obj/Debug/net8.0/refint/soru14.dll
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/obj/Debug/net8.0/soru14.pdb
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/obj/Debug/net8.0/soru14.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Arrays homework/soru14/soru14/obj/Debug/net8.0/ref/soru14.dll

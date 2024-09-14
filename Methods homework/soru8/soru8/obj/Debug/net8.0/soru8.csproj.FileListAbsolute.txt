@@ -1,0 +1,15 @@
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/bin/Debug/net8.0/soru8
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/bin/Debug/net8.0/soru8.deps.json
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/bin/Debug/net8.0/soru8.runtimeconfig.json
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/bin/Debug/net8.0/soru8.dll
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/bin/Debug/net8.0/soru8.pdb
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/obj/Debug/net8.0/soru8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/obj/Debug/net8.0/soru8.AssemblyInfoInputs.cache
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/obj/Debug/net8.0/soru8.AssemblyInfo.cs
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/obj/Debug/net8.0/soru8.csproj.CoreCompileInputs.cache
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/obj/Debug/net8.0/soru8.sourcelink.json
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/obj/Debug/net8.0/soru8.dll
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/obj/Debug/net8.0/refint/soru8.dll
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/obj/Debug/net8.0/soru8.pdb
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/obj/Debug/net8.0/soru8.genruntimeconfig.cache
+/Users/tahirburakavar/Documents/github/Homework_08_09_2024/homework08_09_2024/Methods homework/soru8/soru8/obj/Debug/net8.0/ref/soru8.dll
